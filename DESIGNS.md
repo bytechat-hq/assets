@@ -3,6 +3,7 @@
 
 **TYPOGRAPHY**
 - *Font Family:* [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- *Font Size:*
 - *Font Weight:*
 
 **COLOR**
@@ -11,7 +12,7 @@
 - *Hyperlink Color:* Default HTML Unvisited Hyperlink Color or Black
 
 **BUTTON**
-- *Border Radius:* Apple's Border Radius Convention
-- *Variations:*
-  - Black Background, White Text
-  - White or Transparent Background, Black Text, Black Border Color
+- *Inspiration:* Apple's Button Design
+- *Variations of Button Due to Background Color:*
+  - Black Background: White Text
+  - White or Transparent Background: Black Text, Black Border Color
