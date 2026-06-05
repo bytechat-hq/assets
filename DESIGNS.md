@@ -8,7 +8,7 @@
 **COLOR**
 - *Background Color:* White
 - *Text Color:* Black
-- *Hyperlink Color:*
+- *Hyperlink Color:* Default HTML Unvisited Hyperlink Color or Black
 
 **BUTTON**
 - *Border Radius:* Apple's Border Radius Convention
