@@ -15,4 +15,4 @@
 - *Inspiration:* Apple's Button Design
 - *Variations of Button Due to Background Color:*
   - Black Background: White Text
-  - White or Transparent Background: Black Text, Black Border Color
+  - White or Transparent Background: Black Text, Black Border If the Button Background Matches the Container Background Color
